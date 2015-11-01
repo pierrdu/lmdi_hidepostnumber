@@ -3,7 +3,7 @@
 	"type": "phpbb-extension",
 	"description": "Deletes the nimber of posts in the mini-profile",
 	"homepage": "http://www.insecte.org/ext/readme.txt",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"time": "2015-10-31",
 	"license": "GPL-2.0",
 	"authors": [
