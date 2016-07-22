@@ -33,4 +33,3 @@ class listener implements EventSubscriberInterface
 		$event['post_row'] = $post_row;
 	}
 }
-
