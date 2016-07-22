@@ -5,7 +5,7 @@
 1. Download the latest release.
 2. Unzip the downloaded release, and change the name of the folder to `delre`.
 3. In the `ext` directory of your phpBB board, create a new directory named `lmdi` (if it does not already exist).
-4. Copy the `hidepostnumber` folder to `phpBB/ext/lmdi/`.
+4. Copy the `hidepostnumber` folder to `/ext/lmdi/`.
 5. Navigate in the ACP to `Customise -> Manage extensions`.
 6. Look for `Hide Post Number` under the Disabled Extensions list, and click its `Enable` link.
 
