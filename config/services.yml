@@ -1,5 +1,7 @@
 services:
     lmdi.hidepostnumber.listener:
         class: lmdi\hidepostnumber\event\listener
+        arguments:
+            - '@template'
         tags:
             - { name: event.listener }
